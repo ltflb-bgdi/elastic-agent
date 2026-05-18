@@ -2625,11 +2625,11 @@ Contents of probable licence file $GOMODCACHE/github.com/oklog/ulid/v2@v2.1.1/LI
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/pkg/status
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/status@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/status@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -4207,11 +4207,11 @@ Contents of probable licence file $GOMODCACHE/go.elastic.co/ecszap@v1.0.3/LICENS
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/component
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/component@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/component@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -4419,11 +4419,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/comp
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/component/componentstatus
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/component/componentstatus@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/component/componentstatus@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -4631,11 +4631,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/comp
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/component/componenttest
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/component/componenttest@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/component/componenttest@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -4843,11 +4843,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/comp
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/confmap
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/confmap@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/confmap@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -5055,11 +5055,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/conf
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/extension
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/extension@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/extension@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -5267,11 +5267,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exte
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/extension/extensiontest
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/extension/extensiontest@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/extension/extensiontest@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -5479,11 +5479,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exte
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/otelcol
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/otelcol@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/otelcol@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -5691,11 +5691,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/otel
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/pdata
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/pdata@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/pdata@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -5903,11 +5903,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/pdat
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/pipeline
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/pipeline@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/pipeline@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -6740,11 +6740,11 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 Dependency : google.golang.org/grpc
-Version: v1.80.0
+Version: v1.81.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/google.golang.org/grpc@v1.80.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/google.golang.org/grpc@v1.81.0/LICENSE:
 
 
                                  Apache License
@@ -10261,11 +10261,11 @@ Contents of probable licence file $GOMODCACHE/github.com/elastic/opentelemetry-c
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/connector/routingconnector
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/connector/routingconnector@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/connector/routingconnector@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -10472,11 +10472,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/connector/spanmetricsconnector
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/connector/spanmetricsconnector@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/connector/spanmetricsconnector@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -10683,11 +10683,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/exporter/elasticsearchexporter
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/exporter/elasticsearchexporter@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/exporter/elasticsearchexporter@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -10894,11 +10894,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/exporter/fileexporter
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/exporter/fileexporter@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/exporter/fileexporter@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -11105,11 +11105,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/exporter/kafkaexporter
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/exporter/kafkaexporter@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/exporter/kafkaexporter@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -11316,11 +11316,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/exporter/loadbalancingexporter
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/exporter/loadbalancingexporter@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/exporter/loadbalancingexporter@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -11527,11 +11527,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/extension/bearertokenauthextension
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/bearertokenauthextension@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/bearertokenauthextension@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -11738,11 +11738,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/extension/encoding/awslogsencodingextension
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/encoding/awslogsencodingextension@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/encoding/awslogsencodingextension@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -11949,11 +11949,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/extension/encoding/azureencodingextension
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/encoding/azureencodingextension@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/encoding/azureencodingextension@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -12160,11 +12160,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/extension/headerssetterextension
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/headerssetterextension@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/headerssetterextension@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -12371,11 +12371,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/extension/healthcheckextension
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/healthcheckextension@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/healthcheckextension@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -12582,11 +12582,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/extension/healthcheckv2extension
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/healthcheckv2extension@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/healthcheckv2extension@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -12793,11 +12793,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/extension/k8sleaderelector
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/k8sleaderelector@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/k8sleaderelector@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -13004,11 +13004,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/extension/observer/k8sobserver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/observer/k8sobserver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/observer/k8sobserver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -13215,11 +13215,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/extension/opampextension
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/opampextension@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/opampextension@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -13426,11 +13426,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/extension/pprofextension
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/pprofextension@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/pprofextension@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -13637,11 +13637,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/extension/storage/filestorage
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/storage/filestorage@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/storage/filestorage@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -13848,11 +13848,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/processor/attributesprocessor
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/processor/attributesprocessor@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/processor/attributesprocessor@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -14059,11 +14059,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/processor/cumulativetodeltaprocessor
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/processor/cumulativetodeltaprocessor@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/processor/cumulativetodeltaprocessor@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -14270,11 +14270,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/processor/filterprocessor
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/processor/filterprocessor@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/processor/filterprocessor@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -14481,11 +14481,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/processor/geoipprocessor
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/processor/geoipprocessor@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/processor/geoipprocessor@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -14692,11 +14692,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/processor/k8sattributesprocessor
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/processor/k8sattributesprocessor@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/processor/k8sattributesprocessor@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -14903,11 +14903,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/processor/logdedupprocessor
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/processor/logdedupprocessor@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/processor/logdedupprocessor@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -15114,11 +15114,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/processor/resourcedetectionprocessor
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/processor/resourcedetectionprocessor@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/processor/resourcedetectionprocessor@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -15325,11 +15325,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/processor/resourceprocessor
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/processor/resourceprocessor@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/processor/resourceprocessor@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -15536,11 +15536,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/processor/tailsamplingprocessor
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/processor/tailsamplingprocessor@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/processor/tailsamplingprocessor@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -15747,11 +15747,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/processor/transformprocessor
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/processor/transformprocessor@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/processor/transformprocessor@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -15958,11 +15958,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/apachereceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/apachereceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/apachereceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -16169,11 +16169,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/awss3receiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/awss3receiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/awss3receiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -16380,11 +16380,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/dockerstatsreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/dockerstatsreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/dockerstatsreceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -16591,11 +16591,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/filelogreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/filelogreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/filelogreceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -16802,11 +16802,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/hostmetricsreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/hostmetricsreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/hostmetricsreceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -17013,11 +17013,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/httpcheckreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/httpcheckreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/httpcheckreceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -17224,11 +17224,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/iisreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/iisreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/iisreceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -17435,11 +17435,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/jaegerreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/jaegerreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/jaegerreceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -17646,11 +17646,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/jmxreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/jmxreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/jmxreceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -17857,11 +17857,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/k8sclusterreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/k8sclusterreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/k8sclusterreceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -18068,11 +18068,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/k8seventsreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/k8seventsreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/k8seventsreceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -18279,11 +18279,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/k8sobjectsreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/k8sobjectsreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/k8sobjectsreceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -18490,11 +18490,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/kafkareceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/kafkareceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/kafkareceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -18701,11 +18701,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/kubeletstatsreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/kubeletstatsreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/kubeletstatsreceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -18912,11 +18912,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/mysqlreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/mysqlreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/mysqlreceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -19123,11 +19123,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/nginxreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/nginxreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/nginxreceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -19334,11 +19334,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/postgresqlreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/postgresqlreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/postgresqlreceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -19545,11 +19545,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/prometheusreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/prometheusreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/prometheusreceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -19756,11 +19756,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/prometheusremotewritereceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/prometheusremotewritereceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/prometheusremotewritereceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -19967,11 +19967,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/receivercreator
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/receivercreator@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/receivercreator@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -20178,11 +20178,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/redisreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/redisreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/redisreceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -20389,11 +20389,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/snmpreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/snmpreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/snmpreceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -20600,11 +20600,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/sqlserverreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/sqlserverreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/sqlserverreceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -20811,11 +20811,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/statsdreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/statsdreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/statsdreceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -21022,11 +21022,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/windowseventlogreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/windowseventlogreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/windowseventlogreceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -21233,11 +21233,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/windowsperfcountersreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/windowsperfcountersreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/windowsperfcountersreceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -21444,11 +21444,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/receiver/zipkinreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/zipkinreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/receiver/zipkinreceiver@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -21655,11 +21655,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/confmap/provider/envprovider
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/confmap/provider/envprovider@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/confmap/provider/envprovider@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -21867,11 +21867,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/conf
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/confmap/provider/fileprovider
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/confmap/provider/fileprovider@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/confmap/provider/fileprovider@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -22079,11 +22079,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/conf
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/confmap/provider/httpprovider
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/confmap/provider/httpprovider@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/confmap/provider/httpprovider@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -22291,11 +22291,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/conf
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/confmap/provider/httpsprovider
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/confmap/provider/httpsprovider@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/confmap/provider/httpsprovider@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -22503,11 +22503,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/conf
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/confmap/provider/yamlprovider
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/confmap/provider/yamlprovider@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/confmap/provider/yamlprovider@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -22715,11 +22715,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/conf
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/connector/forwardconnector
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/connector/forwardconnector@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/connector/forwardconnector@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -22927,11 +22927,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/conn
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/exporter/debugexporter
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exporter/debugexporter@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exporter/debugexporter@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -23139,11 +23139,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/expo
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/exporter/nopexporter
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exporter/nopexporter@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exporter/nopexporter@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -23351,11 +23351,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/expo
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/exporter/otlpexporter
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exporter/otlpexporter@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exporter/otlpexporter@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -23563,11 +23563,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/expo
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/exporter/otlphttpexporter
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exporter/otlphttpexporter@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exporter/otlphttpexporter@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -23775,11 +23775,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/expo
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/extension/memorylimiterextension
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/extension/memorylimiterextension@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/extension/memorylimiterextension@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -23987,11 +23987,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exte
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/processor/batchprocessor
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/processor/batchprocessor@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/processor/batchprocessor@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -24199,11 +24199,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/proc
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/processor/memorylimiterprocessor
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/processor/memorylimiterprocessor@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/processor/memorylimiterprocessor@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -24411,11 +24411,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/proc
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/receiver/nopreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/receiver/nopreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/receiver/nopreceiver@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -24623,11 +24623,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/rece
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/receiver/otlpreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/receiver/otlpreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/receiver/otlpreceiver@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -24835,11 +24835,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/rece
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/ebpf-profiler
-Version: v0.0.202614
+Version: v0.0.202618
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/ebpf-profiler@v0.0.202614/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/ebpf-profiler@v0.0.202618/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -33238,11 +33238,11 @@ SOFTWARE.
 
 --------------------------------------------------------------------------------
 Dependency : github.com/klauspost/compress
-Version: v1.18.5
+Version: v1.18.6
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/klauspost/compress@v1.18.5/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/klauspost/compress@v1.18.6/LICENSE:
 
 Copyright (c) 2012 The Go Authors. All rights reserved.
 Copyright (c) 2019 Klaus Post. All rights reserved.
@@ -36129,11 +36129,11 @@ SOFTWARE.
 
 --------------------------------------------------------------------------------
 Dependency : github.com/shirou/gopsutil/v4
-Version: v4.26.3
+Version: v4.26.4
 Licence type (autodetected): BSD-3-Clause
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/shirou/gopsutil/v4@v4.26.3/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/shirou/gopsutil/v4@v4.26.4/LICENSE:
 
 gopsutil is distributed under BSD license reproduced below.
 
@@ -37240,11 +37240,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/auto/sdk@v1.2.
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/config/configtelemetry
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/config/configtelemetry@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/config/configtelemetry@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -37452,11 +37452,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/conf
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/confmap/xconfmap
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/confmap/xconfmap@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/confmap/xconfmap@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -37664,11 +37664,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/conf
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/connector
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/connector@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/connector@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -37876,11 +37876,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/conn
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/connector/connectortest
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/connector/connectortest@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/connector/connectortest@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -38088,11 +38088,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/conn
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/connector/xconnector
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/connector/xconnector@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/connector/xconnector@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -38300,11 +38300,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/conn
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/consumer
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/consumer@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/consumer@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -38512,11 +38512,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/cons
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/consumer/consumererror
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/consumer/consumererror@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/consumer/consumererror@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -38724,11 +38724,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/cons
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/consumer/consumertest
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/consumer/consumertest@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/consumer/consumertest@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -38936,11 +38936,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/cons
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/consumer/xconsumer
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/consumer/xconsumer@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/consumer/xconsumer@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -39148,11 +39148,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/cons
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/exporter
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exporter@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exporter@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -39360,11 +39360,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/expo
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/exporter/exportertest
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exporter/exportertest@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exporter/exportertest@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -39572,11 +39572,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/expo
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/exporter/xexporter
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exporter/xexporter@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exporter/xexporter@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -39784,11 +39784,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/expo
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/extension/extensionauth
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/extension/extensionauth@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/extension/extensionauth@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -39996,11 +39996,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exte
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/extension/extensioncapabilities
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/extension/extensioncapabilities@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/extension/extensioncapabilities@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -40208,11 +40208,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exte
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/featuregate
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/featuregate@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/featuregate@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -40420,11 +40420,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/feat
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/internal/componentalias
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/internal/componentalias@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/internal/componentalias@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -40632,11 +40632,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/inte
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/internal/fanoutconsumer
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/internal/fanoutconsumer@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/internal/fanoutconsumer@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -40844,11 +40844,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/inte
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/internal/telemetry
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/internal/telemetry@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/internal/telemetry@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -41056,11 +41056,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/inte
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/pdata/pprofile
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/pdata/pprofile@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/pdata/pprofile@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -41268,11 +41268,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/pdat
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/pdata/testdata
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/pdata/testdata@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/pdata/testdata@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -41480,11 +41480,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/pdat
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/pdata/xpdata
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/pdata/xpdata@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/pdata/xpdata@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -41692,11 +41692,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/pdat
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/pipeline/xpipeline
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/pipeline/xpipeline@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/pipeline/xpipeline@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -41904,11 +41904,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/pipe
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/processor
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/processor@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/processor@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -42116,11 +42116,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/proc
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/processor/processortest
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/processor/processortest@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/processor/processortest@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -42328,11 +42328,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/proc
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/processor/xprocessor
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/processor/xprocessor@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/processor/xprocessor@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -42540,11 +42540,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/proc
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/receiver
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/receiver@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/receiver@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -42752,11 +42752,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/rece
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/receiver/receivertest
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/receiver/receivertest@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/receiver/receivertest@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -42964,11 +42964,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/rece
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/receiver/xreceiver
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/receiver/xreceiver@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/receiver/xreceiver@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -43176,11 +43176,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/rece
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/service
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/service@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/service@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -43388,11 +43388,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/serv
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/service/hostcapabilities
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/service/hostcapabilities@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/service/hostcapabilities@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -54838,11 +54838,11 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 Dependency : filippo.io/edwards25519
-Version: v1.1.1
+Version: v1.2.0
 Licence type (autodetected): BSD-3-Clause
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/filippo.io/edwards25519@v1.1.1/LICENSE:
+Contents of probable licence file $GOMODCACHE/filippo.io/edwards25519@v1.2.0/LICENSE:
 
 Copyright (c) 2009 The Go Authors. All rights reserved.
 
@@ -57989,11 +57989,11 @@ THE SOFTWARE.
 
 --------------------------------------------------------------------------------
 Dependency : github.com/Masterminds/semver/v3
-Version: v3.4.0
+Version: v3.5.0
 Licence type (autodetected): MIT
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/!masterminds/semver/v3@v3.4.0/LICENSE.txt:
+Contents of probable licence file $GOMODCACHE/github.com/!masterminds/semver/v3@v3.5.0/LICENSE.txt:
 
 Copyright (C) 2014-2019, Matt Butcher and Matt Farina
 
@@ -60764,11 +60764,11 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 --------------------------------------------------------------------------------
 Dependency : github.com/apache/thrift
-Version: v0.22.0
+Version: v0.23.1-0.20260429145742-d2acd3c49e58
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/apache/thrift@v0.22.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/apache/thrift@v0.23.1-0.20260429145742-d2acd3c49e58/LICENSE:
 
 
                                  Apache License
@@ -61076,6 +61076,15 @@ For t_cl_generator.cc
  * Copyright (c) 2006- Facebook
 
 ---------------------------------------------------
+
+---------------------------------------------------
+For compiler/cpp/src/thrift/generate/sha256.h
+
+SHA-256 implementation by Brad Conte (brad AT bradconte.com).
+Source: https://github.com/B-Con/crypto-algorithms
+The author has placed this code in the public domain (no copyright claimed).
+No algorithmic changes were made; the file was adapted to a C++ header-only
+form for inclusion in the Thrift compiler.
 
 
 --------------------------------------------------------------------------------
@@ -61720,11 +61729,11 @@ Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go@v1.55.8/
 
 --------------------------------------------------------------------------------
 Dependency : github.com/aws/aws-sdk-go-v2
-Version: v1.41.6
+Version: v1.41.7
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2@v1.41.6/LICENSE.txt:
+Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2@v1.41.7/LICENSE.txt:
 
 
                                  Apache License
@@ -61932,11 +61941,11 @@ Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2@v1.41
 
 --------------------------------------------------------------------------------
 Dependency : github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream
-Version: v1.7.9
+Version: v1.7.10
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream@v1.7.9/LICENSE.txt:
+Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream@v1.7.10/LICENSE.txt:
 
 
                                  Apache License
@@ -62144,11 +62153,11 @@ Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/aws/p
 
 --------------------------------------------------------------------------------
 Dependency : github.com/aws/aws-sdk-go-v2/config
-Version: v1.32.16
+Version: v1.32.17
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/config@v1.32.16/LICENSE.txt:
+Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/config@v1.32.17/LICENSE.txt:
 
 
                                  Apache License
@@ -62356,11 +62365,11 @@ Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/confi
 
 --------------------------------------------------------------------------------
 Dependency : github.com/aws/aws-sdk-go-v2/credentials
-Version: v1.19.15
+Version: v1.19.16
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/credentials@v1.19.15/LICENSE.txt:
+Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/credentials@v1.19.16/LICENSE.txt:
 
 
                                  Apache License
@@ -62568,11 +62577,11 @@ Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/crede
 
 --------------------------------------------------------------------------------
 Dependency : github.com/aws/aws-sdk-go-v2/feature/ec2/imds
-Version: v1.18.22
+Version: v1.18.23
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/feature/ec2/imds@v1.18.22/LICENSE.txt:
+Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/feature/ec2/imds@v1.18.23/LICENSE.txt:
 
 
                                  Apache License
@@ -62780,11 +62789,11 @@ Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/featu
 
 --------------------------------------------------------------------------------
 Dependency : github.com/aws/aws-sdk-go-v2/internal/configsources
-Version: v1.4.22
+Version: v1.4.23
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/internal/configsources@v1.4.22/LICENSE.txt:
+Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/internal/configsources@v1.4.23/LICENSE.txt:
 
 
                                  Apache License
@@ -62992,11 +63001,11 @@ Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/inter
 
 --------------------------------------------------------------------------------
 Dependency : github.com/aws/aws-sdk-go-v2/internal/endpoints/v2
-Version: v2.7.22
+Version: v2.7.23
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/internal/endpoints/v2@v2.7.22/LICENSE.txt:
+Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/internal/endpoints/v2@v2.7.23/LICENSE.txt:
 
 
                                  Apache License
@@ -63204,11 +63213,11 @@ Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/inter
 
 --------------------------------------------------------------------------------
 Dependency : github.com/aws/aws-sdk-go-v2/internal/v4a
-Version: v1.4.23
+Version: v1.4.24
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/internal/v4a@v1.4.23/LICENSE.txt:
+Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/internal/v4a@v1.4.24/LICENSE.txt:
 
 
                                  Apache License
@@ -64476,11 +64485,11 @@ Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/servi
 
 --------------------------------------------------------------------------------
 Dependency : github.com/aws/aws-sdk-go-v2/service/ec2
-Version: v1.299.0
+Version: v1.300.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/ec2@v1.299.0/LICENSE.txt:
+Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/ec2@v1.300.0/LICENSE.txt:
 
 
                                  Apache License
@@ -65748,11 +65757,11 @@ Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/servi
 
 --------------------------------------------------------------------------------
 Dependency : github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding
-Version: v1.13.8
+Version: v1.13.9
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding@v1.13.8/LICENSE.txt:
+Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding@v1.13.9/LICENSE.txt:
 
 
                                  Apache License
@@ -65960,11 +65969,11 @@ Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/servi
 
 --------------------------------------------------------------------------------
 Dependency : github.com/aws/aws-sdk-go-v2/service/internal/checksum
-Version: v1.9.14
+Version: v1.9.15
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/internal/checksum@v1.9.14/LICENSE.txt:
+Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/internal/checksum@v1.9.15/LICENSE.txt:
 
 
                                  Apache License
@@ -66172,11 +66181,11 @@ Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/servi
 
 --------------------------------------------------------------------------------
 Dependency : github.com/aws/aws-sdk-go-v2/service/internal/presigned-url
-Version: v1.13.22
+Version: v1.13.23
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/internal/presigned-url@v1.13.22/LICENSE.txt:
+Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/internal/presigned-url@v1.13.23/LICENSE.txt:
 
 
                                  Apache License
@@ -66384,11 +66393,11 @@ Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/servi
 
 --------------------------------------------------------------------------------
 Dependency : github.com/aws/aws-sdk-go-v2/service/internal/s3shared
-Version: v1.19.22
+Version: v1.19.23
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/internal/s3shared@v1.19.22/LICENSE.txt:
+Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/internal/s3shared@v1.19.23/LICENSE.txt:
 
 
                                  Apache License
@@ -67656,11 +67665,11 @@ Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/servi
 
 --------------------------------------------------------------------------------
 Dependency : github.com/aws/aws-sdk-go-v2/service/s3
-Version: v1.100.0
+Version: v1.100.1
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/s3@v1.100.0/LICENSE.txt:
+Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/s3@v1.100.1/LICENSE.txt:
 
 
                                  Apache License
@@ -67868,11 +67877,11 @@ Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/servi
 
 --------------------------------------------------------------------------------
 Dependency : github.com/aws/aws-sdk-go-v2/service/servicediscovery
-Version: v1.39.27
+Version: v1.39.28
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/servicediscovery@v1.39.27/LICENSE.txt:
+Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/servicediscovery@v1.39.28/LICENSE.txt:
 
 
                                  Apache License
@@ -68080,11 +68089,11 @@ Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/servi
 
 --------------------------------------------------------------------------------
 Dependency : github.com/aws/aws-sdk-go-v2/service/signin
-Version: v1.0.10
+Version: v1.0.11
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/signin@v1.0.10/LICENSE.txt:
+Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/signin@v1.0.11/LICENSE.txt:
 
 
                                  Apache License
@@ -68292,11 +68301,11 @@ Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/servi
 
 --------------------------------------------------------------------------------
 Dependency : github.com/aws/aws-sdk-go-v2/service/sqs
-Version: v1.42.26
+Version: v1.42.27
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/sqs@v1.42.26/LICENSE.txt:
+Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/sqs@v1.42.27/LICENSE.txt:
 
 
                                  Apache License
@@ -68504,11 +68513,11 @@ Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/servi
 
 --------------------------------------------------------------------------------
 Dependency : github.com/aws/aws-sdk-go-v2/service/sso
-Version: v1.30.16
+Version: v1.30.17
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/sso@v1.30.16/LICENSE.txt:
+Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/sso@v1.30.17/LICENSE.txt:
 
 
                                  Apache License
@@ -68716,11 +68725,11 @@ Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/servi
 
 --------------------------------------------------------------------------------
 Dependency : github.com/aws/aws-sdk-go-v2/service/ssooidc
-Version: v1.35.20
+Version: v1.35.21
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/ssooidc@v1.35.20/LICENSE.txt:
+Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/ssooidc@v1.35.21/LICENSE.txt:
 
 
                                  Apache License
@@ -68928,11 +68937,11 @@ Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/servi
 
 --------------------------------------------------------------------------------
 Dependency : github.com/aws/aws-sdk-go-v2/service/sts
-Version: v1.42.0
+Version: v1.42.1
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/sts@v1.42.0/LICENSE.txt:
+Contents of probable licence file $GOMODCACHE/github.com/aws/aws-sdk-go-v2/service/sts@v1.42.1/LICENSE.txt:
 
 
                                  Apache License
@@ -70224,11 +70233,11 @@ Contents of probable licence file $GOMODCACHE/github.com/cloudfoundry/sonde-go@v
 
 --------------------------------------------------------------------------------
 Dependency : github.com/cncf/xds/go
-Version: v0.0.0-20251210132809-ee656c7534f5
+Version: v0.0.0-20260202195803-dba9d589def2
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/cncf/xds/go@v0.0.0-20251210132809-ee656c7534f5/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/cncf/xds/go@v0.0.0-20260202195803-dba9d589def2/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -79949,11 +79958,11 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 Dependency : github.com/go-sql-driver/mysql
-Version: v1.9.3
+Version: v1.10.0
 Licence type (autodetected): MPL-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/go-sql-driver/mysql@v1.9.3/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/go-sql-driver/mysql@v1.10.0/LICENSE:
 
 Mozilla Public License Version 2.0
 ==================================
@@ -90024,20 +90033,33 @@ SOFTWARE.
 
 --------------------------------------------------------------------------------
 Dependency : github.com/lib/pq
-Version: v1.10.9
+Version: v1.12.3
 Licence type (autodetected): MIT
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/lib/pq@v1.10.9/LICENSE.md:
+Contents of probable licence file $GOMODCACHE/github.com/lib/pq@v1.12.3/LICENSE:
 
-Copyright (c) 2011-2013, 'pq' Contributors
-Portions Copyright (C) 2011 Blake Mizerany
+MIT License
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Copyright (c) 2011-2013, 'pq' Contributors. Portions Copyright (c) 2011 Blake Mizerany
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
 --------------------------------------------------------------------------------
@@ -92283,11 +92305,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opamp-go
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/connector/signaltometricsconnector
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/connector/signaltometricsconnector@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/connector/signaltometricsconnector@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -92494,11 +92516,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/extension/encoding
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/encoding@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/encoding@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -92705,11 +92727,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/extension/internal/credentialsfile
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/internal/credentialsfile@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/internal/credentialsfile@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -92916,11 +92938,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/extension/observer
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/observer@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/observer@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -93127,11 +93149,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/extension/opampcustommessages
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/opampcustommessages@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/extension/opampcustommessages@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -93338,11 +93360,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/internal/aws/ecsutil
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/aws/ecsutil@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/aws/ecsutil@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -93549,11 +93571,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/internal/common
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/common@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/common@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -93760,11 +93782,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/internal/coreinternal
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/coreinternal@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/coreinternal@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -93971,11 +93993,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/internal/docker
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/docker@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/docker@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -94182,11 +94204,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/internal/exp/metrics
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/exp/metrics@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/exp/metrics@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -94393,11 +94415,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/internal/filter
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/filter@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/filter@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -94604,11 +94626,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/internal/gopsutilenv
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/gopsutilenv@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/gopsutilenv@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -94815,11 +94837,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/internal/healthcheck
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/healthcheck@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/healthcheck@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -95026,11 +95048,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/internal/k8sconfig
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/k8sconfig@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/k8sconfig@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -95237,11 +95259,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/internal/k8sinventory
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/k8sinventory@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/k8sinventory@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -95448,11 +95470,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/internal/kafka
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/kafka@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/kafka@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -95659,11 +95681,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/internal/kubelet
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/kubelet@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/kubelet@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -95870,11 +95892,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/internal/metadataproviders
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/metadataproviders@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/metadataproviders@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -96081,11 +96103,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/internal/pdatautil
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/pdatautil@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/pdatautil@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -96292,11 +96314,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/internal/sharedcomponent
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/sharedcomponent@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/sharedcomponent@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -96503,11 +96525,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/internal/sqlquery
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/sqlquery@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/internal/sqlquery@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -96714,11 +96736,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/pkg/batchpersignal
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/batchpersignal@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/batchpersignal@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -96925,11 +96947,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/pkg/core/xidutils
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/core/xidutils@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/core/xidutils@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -97136,11 +97158,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/pkg/experimentalmetricmetadata
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/experimentalmetricmetadata@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/experimentalmetricmetadata@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -97347,11 +97369,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/pkg/kafka/configkafka
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/kafka/configkafka@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/kafka/configkafka@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -97558,11 +97580,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/pkg/kafka/topic
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/kafka/topic@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/kafka/topic@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -97769,11 +97791,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/pkg/ottl
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/ottl@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/ottl@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -97980,11 +98002,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatautil
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatautil@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatautil@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -98191,11 +98213,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/pkg/sampling
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/sampling@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/sampling@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -98402,11 +98424,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/pkg/stanza
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/stanza@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/stanza@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -98613,11 +98635,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/azure
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/azure@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/azure@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -98824,11 +98846,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/jaeger
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/jaeger@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/jaeger@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -99035,11 +99057,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/prometheus
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/prometheus@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/prometheus@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -99246,11 +99268,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/zipkin
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/zipkin@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/zipkin@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -99457,11 +99479,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/pkg/winperfcounters
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/winperfcounters@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/winperfcounters@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -99668,11 +99690,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/pkg/xstreamencoding
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/xstreamencoding@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/pkg/xstreamencoding@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -99879,11 +99901,11 @@ Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentele
 
 --------------------------------------------------------------------------------
 Dependency : github.com/open-telemetry/opentelemetry-collector-contrib/processor/deltatocumulativeprocessor
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/processor/deltatocumulativeprocessor@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/open-telemetry/opentelemetry-collector-contrib/processor/deltatocumulativeprocessor@v0.152.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -102045,11 +102067,11 @@ Contents of probable licence file $GOMODCACHE/github.com/prometheus/exporter-too
 
 --------------------------------------------------------------------------------
 Dependency : github.com/prometheus/prometheus
-Version: v0.311.2-0.20260410083055-07c6232d159b
+Version: v0.311.4-0.20260507094802-91c184a899b8
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/prometheus/prometheus@v0.311.2-0.20260410083055-07c6232d159b/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/prometheus/prometheus@v0.311.4-0.20260507094802-91c184a899b8/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -103806,11 +103828,11 @@ SOFTWARE.
 
 --------------------------------------------------------------------------------
 Dependency : github.com/twmb/franz-go
-Version: v1.20.7
+Version: v1.21.1
 Licence type (autodetected): BSD-3-Clause
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/twmb/franz-go@v1.20.7/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/twmb/franz-go@v1.21.1/LICENSE:
 
 Copyright 2020, Travis Bischel.
 All rights reserved.
@@ -103840,11 +103862,11 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 Dependency : github.com/twmb/franz-go/pkg/kadm
-Version: v1.17.2
+Version: v1.18.0
 Licence type (autodetected): BSD-3-Clause
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/github.com/twmb/franz-go/pkg/kadm@v1.17.2/LICENSE:
+Contents of probable licence file $GOMODCACHE/github.com/twmb/franz-go/pkg/kadm@v1.18.0/LICENSE:
 
 Copyright 2020, Travis Bischel.
 All rights reserved.
@@ -105329,11 +105351,11 @@ Contents of probable licence file $GOMODCACHE/go.opencensus.io@v0.24.0/LICENSE:
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -105541,11 +105563,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector@v0.1
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/client
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/client@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/client@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -105753,11 +105775,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/clie
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/config/configauth
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/config/configauth@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/config/configauth@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -105965,11 +105987,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/conf
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/config/configcompression
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/config/configcompression@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/config/configcompression@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -106177,11 +106199,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/conf
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/config/configgrpc
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/config/configgrpc@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/config/configgrpc@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -106389,11 +106411,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/conf
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/config/confighttp
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/config/confighttp@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/config/confighttp@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -106601,11 +106623,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/conf
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/config/configmiddleware
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/config/configmiddleware@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/config/configmiddleware@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -106813,11 +106835,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/conf
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/config/confignet
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/config/confignet@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/config/confignet@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -107025,11 +107047,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/conf
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/config/configopaque
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/config/configopaque@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/config/configopaque@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -107237,11 +107259,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/conf
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/config/configoptional
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/config/configoptional@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/config/configoptional@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -107449,11 +107471,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/conf
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/config/configretry
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/config/configretry@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/config/configretry@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -107661,11 +107683,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/conf
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/config/configtls
-Version: v1.57.0
+Version: v1.58.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/config/configtls@v1.57.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/config/configtls@v1.58.0/LICENSE:
 
 
                                  Apache License
@@ -107873,11 +107895,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/conf
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/consumer/consumererror/xconsumererror
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/consumer/consumererror/xconsumererror@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/consumer/consumererror/xconsumererror@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -108085,11 +108107,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/cons
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/exporter/exporterhelper
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exporter/exporterhelper@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exporter/exporterhelper@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -108297,11 +108319,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/expo
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/exporter/exporterhelper/xexporterhelper
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exporter/exporterhelper/xexporterhelper@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exporter/exporterhelper/xexporterhelper@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -108509,11 +108531,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/expo
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/extension/extensionmiddleware
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/extension/extensionmiddleware@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/extension/extensionmiddleware@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -108721,11 +108743,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exte
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/extension/xextension
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/extension/xextension@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/extension/xextension@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -108933,11 +108955,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/exte
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/filter
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/filter@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/filter@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -109145,11 +109167,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/filt
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/internal/memorylimiter
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/internal/memorylimiter@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/internal/memorylimiter@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -109357,11 +109379,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/inte
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/internal/sharedcomponent
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/internal/sharedcomponent@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/internal/sharedcomponent@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -109569,11 +109591,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/inte
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/processor/processorhelper
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/processor/processorhelper@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/processor/processorhelper@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -109781,11 +109803,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/proc
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/processor/processorhelper/xprocessorhelper
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/processor/processorhelper/xprocessorhelper@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/processor/processorhelper/xprocessorhelper@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -109993,11 +110015,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/proc
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/receiver/receiverhelper
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/receiver/receiverhelper@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/receiver/receiverhelper@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -110205,11 +110227,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/rece
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/scraper
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/scraper@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/scraper@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -110417,11 +110439,11 @@ Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/scra
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/collector/scraper/scraperhelper
-Version: v0.151.0
+Version: v0.152.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/scraper/scraperhelper@v0.151.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/collector/scraper/scraperhelper@v0.152.0/LICENSE:
 
 
                                  Apache License
@@ -110869,11 +110891,11 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 Dependency : go.opentelemetry.io/contrib/detectors/gcp
-Version: v1.39.0
+Version: v1.42.0
 Licence type (autodetected): Apache-2.0
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/contrib/detectors/gcp@v1.39.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/go.opentelemetry.io/contrib/detectors/gcp@v1.42.0/LICENSE:
 
                                  Apache License
                            Version 2.0, January 2004
@@ -112372,11 +112394,11 @@ Contents of probable licence file $GOMODCACHE/go.yaml.in/yaml/v4@v4.0.0-rc.4/LIC
 
 --------------------------------------------------------------------------------
 Dependency : golang.org/x/arch
-Version: v0.25.0
+Version: v0.26.0
 Licence type (autodetected): BSD-3-Clause
 --------------------------------------------------------------------------------
 
-Contents of probable licence file $GOMODCACHE/golang.org/x/arch@v0.25.0/LICENSE:
+Contents of probable licence file $GOMODCACHE/golang.org/x/arch@v0.26.0/LICENSE:
 
 Copyright 2015 The Go Authors.
 
