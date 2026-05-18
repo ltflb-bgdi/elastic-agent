@@ -48,7 +48,7 @@ collectors:
         debug:
           verbosity: basic # Options: basic, detailed. Choose verbosity level for debug logs.
           # [Elasticsearch exporter](https://github.com/open-telemetry/opentelemetry-collector-contrib/blob/main/exporter/elasticsearchexporter/README.md)
-        otlp/gateway:
+        otlp_grpc/gateway:
           endpoint: "http://opentelemetry-kube-stack-gateway-collector:4317"
           tls:
             insecure: true
@@ -147,7 +147,7 @@ collectors:
           metrics:
             exporters:
               - debug
-              - otlp/gateway
+              - otlp_grpc/gateway
             processors:
               - k8sattributes
               - resourcedetection/eks
@@ -166,7 +166,7 @@ collectors:
               - resource/hostname
             exporters:
               - debug
-              - otlp/gateway
+              - otlp_grpc/gateway
   #  Daemon is a K8s daemonset EDOT collector focused on gathering telemetry at
   #  node level and exposing an OTLP endpoint for data ingestion.
   #  Auto-instrumentation SDKs will use this endpoint.
@@ -193,7 +193,7 @@ collectors:
         # [Debug exporter](https://github.com/open-telemetry/opentelemetry-collector/blob/main/exporter/debugexporter/README.md)
         debug:
           verbosity: basic
-        otlp/gateway:
+        otlp_grpc/gateway:
           endpoint: "http://opentelemetry-kube-stack-gateway-collector-headless:4317"
           tls:
             insecure: true
@@ -464,7 +464,7 @@ collectors:
               - resource/hostname
               - resource/cloud
             exporters:
-              - otlp/gateway
+              - otlp_grpc/gateway
           metrics/node/otel:
             receivers:
               - kubeletstats
@@ -480,7 +480,7 @@ collectors:
               - resource/cloud
             exporters:
               # - debug
-              - otlp/gateway
+              - otlp_grpc/gateway
           metrics/otel-apm:
             receivers:
               - otlp
@@ -489,7 +489,7 @@ collectors:
               - k8sattributes
               - resource/hostname
             exporters:
-              - otlp/gateway
+              - otlp_grpc/gateway
           logs/apm:
             receivers:
               - otlp
@@ -498,7 +498,7 @@ collectors:
               - k8sattributes
               - resource/hostname
             exporters:
-              - otlp/gateway
+              - otlp_grpc/gateway
           traces/apm:
             receivers:
               - otlp
@@ -507,7 +507,7 @@ collectors:
               - k8sattributes
               - resource/hostname
             exporters:
-              - otlp/gateway
+              - otlp_grpc/gateway
   #  Gateway is a K8s deployment EDOT collector focused on processing and
   #  forwarding telemetry to an Elasticsearch endpoint.
   gateway:
@@ -552,7 +552,7 @@ collectors:
       exporters:
         debug:
           verbosity: basic
-        otlp/ingest_logs:
+        otlp_grpc/ingest_logs:
           endpoint: ${env:ELASTIC_OTLP_ENDPOINT}
           headers:
             Authorization: ApiKey ${env:ELASTIC_API_KEY}
@@ -566,7 +566,7 @@ collectors:
               min_size: 1_000_000 # 1MB uncompressed
               max_size: 4_000_000 # 4MB uncompressed
           timeout: 15s
-        otlp/ingest_metrics_traces:
+        otlp_grpc/ingest_metrics_traces:
           endpoint: ${env:ELASTIC_OTLP_ENDPOINT}
           headers:
             Authorization: ApiKey ${env:ELASTIC_API_KEY}
@@ -588,15 +588,15 @@ collectors:
           metrics:
             receivers: [otlp]
             processors: []
-            exporters: [debug, otlp/ingest_metrics_traces]
+            exporters: [debug, otlp_grpc/ingest_metrics_traces]
           logs:
             receivers: [otlp]
             processors: []
-            exporters: [debug, otlp/ingest_logs]
+            exporters: [debug, otlp_grpc/ingest_logs]
           traces:
             receivers: [otlp]
             processors: []
-            exporters: [debug, otlp/ingest_metrics_traces]
+            exporters: [debug, otlp_grpc/ingest_metrics_traces]
 # For more details on OpenTelemetry's zero-code instrumentation, see:
 # https://opentelemetry.io/docs/concepts/instrumentation/zero-code/
 instrumentation:
